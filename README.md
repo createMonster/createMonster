@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I code, I trade, I drink your milkshake
+
 ![Snake animation](https://github.com/createMonster/createMonster/blob/output/github-contribution-grid-snake.svg)
 
 <!--
